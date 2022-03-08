@@ -11,3 +11,4 @@ dependencies:
 - traitlets
 - ipywidgets
 - matplotlib
+- datetime
