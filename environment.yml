@@ -6,8 +6,8 @@ channels:
 dependencies:
 
 - pandas
-- bqplot
 - numpy
 - traitlets
 - ipywidgets
-- matplotlib
+- matplotlib=3.2.2
+- bqplot=0.12.30
